@@ -99,11 +99,5 @@ I love connecting with new people and exploring new opportunities. Feel free to 
                     height="48" width="48" alt="Email" />
             </a>
         </td>
-        <td>
-            <a href="tel:+9989997799333">
-                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/phone.svg"
-                    height="48" width="48" alt="Phone" />
-            </a>
-        </td>
     </tr>
 </table>
