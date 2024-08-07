@@ -21,7 +21,7 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YourUsername/javascript-calculator.git
+   git clone https://github.com/Iqbolshoh/javascript-calculator.git
    cd javascript-calculator
    ```
 
@@ -40,15 +40,6 @@ Here’s how the calculator looks on different devices:
 - **Mobile View:**
 
   ![Mobile View](images/mobile.png)
-
-## How to Contribute
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push to your fork.
-4. Open a pull request with a clear description of your changes.
 
 ## Technologies Used
 
