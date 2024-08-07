@@ -52,14 +52,15 @@ Contributions are welcome! To contribute:
 
 ## Technologies Used
 
-- **HTML** ![HTML Icon](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=white)
+Here's how you can include standard color icons for HTML, CSS, and JavaScript in your README:
+
+- **HTML** ![HTML Icon](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - **CSS** ![CSS Icon](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - **JavaScript** ![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Connect with Me
 
-I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the
-platforms below:
+I love connecting with new people and exploring new opportunities. Feel free to reach out to me through any of the platforms below:
 
 <table>
     <tr>
@@ -96,6 +97,12 @@ platforms below:
             <a href="mailto:iilhomjonov777@gmail.com">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
                     height="48" width="48" alt="Email" />
+            </a>
+        </td>
+        <td>
+            <a href="tel:+9989997799333">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/phone.svg"
+                    height="48" width="48" alt="Phone" />
             </a>
         </td>
     </tr>
