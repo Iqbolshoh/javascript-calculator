@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/favicon.ico">
+    <title>Calculator</title>
+</head>
+
+<body>
+    <div class="calculator">
+        <input type="text" id="display" class="display" disabled>
+        <div class="rever-flex">
+            <div class="reverse">
+                <button onclick="appendToDisplay('o_b')" class="Btn-rvs">(</button>
+                <button onclick="appendToDisplay('c_b')" class="Btn-rvs">)</button>
+                <button onclick="appendToDisplay('')" class="Btn-rvs">mc</button>
+                <button onclick="appendToDisplay('')" class="Btn-rvs">m+</button>
+                <button onclick="appendToDisplay('')" class="Btn-rvs">m-</button>
+                <button onclick="appendToDisplay('')" class="Btn-rvs">mr</button>
+                <button onclick="appendToDisplay('')" class="Btn-rvs">2nd</button>
+                <button onclick="appendToDisplay('^2')" class="Btn-rvs">x&#178;</button>
+                <button onclick="appendToDisplay('^3')" class="Btn-rvs">x&#179;</button>
+                <button onclick="appendToDisplay('^')" class="Btn-rvs">x<sup>y</sup></button>
+                <button onclick="appendToDisplay('e^')" class="Btn-rvs">e<sup>x</sup></button>
+                <button onclick="appendToDisplay('10^')" class="Btn-rvs">10<sup>x</sup></button>
+                <button onclick="appendToDisplay('1/')" class="Btn-rvs">1/x</button>
+                <button onclick="appendToDisplay('sqrt')" class="Btn-rvs">&#8730;x</button>
+                <button onclick="appendToDisplay('cbrt')" class="Btn-rvs">&#8731;x</button>
+                <button onclick="appendToDisplay('abs')" class="Btn-rvs">|x|</button>
+                <button onclick="appendToDisplay('ln')" class="Btn-rvs">ln</button>
+                <button onclick="appendToDisplay('log10')" class="Btn-rvs">log<sub>10</sub></button>
+                <button onclick="Factorial()" class="Btn-rvs">x!</button>
+                <button onclick="appendToDisplay('sin')" class="Btn-rvs">sin</button>
+                <button onclick="appendToDisplay('cos')" class="Btn-rvs">cos</button>
+                <button onclick="appendToDisplay('tan')" class="Btn-rvs">tan</button>
+                <button onclick="appendToDisplay('e')" class="Btn-rvs">e</button>
+                <button onclick="appendToDisplay('EE')" class="Btn-rvs">EE</button>
+                <button onclick="appendToDisplay('')" class="Btn-rvs">Rad</button>
+                <button onclick="appendToDisplay('sih')" class="Btn-rvs">sinh</button>
+                <button onclick="appendToDisplay('coh')" class="Btn-rvs">cosh</button>
+                <button onclick="appendToDisplay('tah')" class="Btn-rvs">tanh</button>
+                <button onclick="appendToDisplay('π')" class="Btn-rvs">&pi;</button>
+                <button onclick="Rand()" class="Btn-rvs">Rand</button>
+            </div>
+            <div class="buttons">
+                <button onclick="clearDisplay()" class="Btn-clr1" style="font-size: 25px;">AC</button>
+                <button onclick="appendToDisplay('*(-1)'), calculateResult()" class="Btn-clr1">+&#8725;-</button>
+                <button onclick="appendToDisplay('%')" class="Btn-clr1">%</button>
+                <button onclick="appendToDisplay('/')" class="Btn-clr3">&divide;</button>
+                <button onclick="appendToDisplay('7')" class="Btn-clr2">7</button>
+                <button onclick="appendToDisplay('8')" class="Btn-clr2">8</button>
+                <button onclick="appendToDisplay('9')" class="Btn-clr2">9</button>
+                <button onclick="appendToDisplay('*')" class="Btn-clr3">&times;</button>
+                <button onclick="appendToDisplay('4')" class="Btn-clr2">4</button>
+                <button onclick="appendToDisplay('5')" class="Btn-clr2">5</button>
+                <button onclick="appendToDisplay('6')" class="Btn-clr2">6</button>
+                <button onclick="appendToDisplay('-')" class="Btn-clr3">&minus;</button>
+                <button onclick="appendToDisplay('1')" class="Btn-clr2">1</button>
+                <button onclick="appendToDisplay('2')" class="Btn-clr2">2</button>
+                <button onclick="appendToDisplay('3')" class="Btn-clr2">3</button>
+                <button onclick="appendToDisplay('+')" class="Btn-clr3">&plus;</button>
+                <button onclick="appendToDisplay('0')" class="Btn-clr2 btn0">0</button>
+                <button onclick="appendToDisplay('.')" class="Btn-clr2">
+                    <div class="point"></div>
+                </button>
+                <button onclick="calculateResult()" class="Btn-clr3">=</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.1.0/math.js"></script>
+
+</body>
+
+</html>
