@@ -18,8 +18,6 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
 - **Clear Functionality:** Clear the input and reset the calculator.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
-
-
 ## Directory Structure
 
 - `index.html`: The main HTML file containing the structure of the calculator.
@@ -49,6 +47,9 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
         alt="JavaScript">
 </div>
 
+## Contributing
+
+Feel free to submit pull requests or open issues if you have suggestions for improvements or encounter any problems.
 
 ## Connect with Me
 
