@@ -2,7 +2,15 @@
 
 This is a simple calculator application built using JavaScript, HTML, and CSS. It provides basic arithmetic operations and a user-friendly interface for performing calculations.
 
-![Banner](images/banner.png)
+## Preview
+
+### Desktop
+  
+  ![Desktop View](images/desktop.png)
+
+### Mobile
+
+  ![Mobile View](images/mobile.png)
 
 ## Features
 
@@ -10,13 +18,7 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
 - **Clear Functionality:** Clear the input and reset the calculator.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
-- **Desktop View:**
-  
-  ![Desktop View](images/calculator-screenshot.png)
 
-- **Mobile View:**
-
-  ![Mobile View](images/mobile.png)
 
 ## Directory Structure
 
