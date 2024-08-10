@@ -39,7 +39,7 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
 
    Open `index.html` in your browser to view and use the calculator.
 
-## Technologies
+## Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white"
