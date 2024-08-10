@@ -10,6 +10,14 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
 - **Clear Functionality:** Clear the input and reset the calculator.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
+- **Desktop View:**
+  
+  ![Desktop View](images/calculator-screenshot.png)
+
+- **Mobile View:**
+
+  ![Mobile View](images/mobile.png)
+
 ## Directory Structure
 
 - `index.html`: The main HTML file containing the structure of the calculator.
@@ -32,14 +40,6 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
 ## Example
 
 Here’s how the calculator looks on different devices:
-
-- **Desktop View:**
-  
-  ![Desktop View](images/calculator-screenshot.png)
-
-- **Mobile View:**
-
-  ![Mobile View](images/mobile.png)
 
 ## Technologies Used
 
