@@ -6,11 +6,11 @@ This is a simple calculator application built using JavaScript, HTML, and CSS. I
 
 ### Desktop
   
-  ![Desktop View](images/desktop.png)
+  ![Desktop View](./src/images/desktop.png)
 
 ### Mobile
 
-  ![Mobile View](images/mobile.png)
+  ![Mobile View](./src/images/mobile.png)
 
 ## Features
 
