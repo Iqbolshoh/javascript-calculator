@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# Javascript Calculator
 
 This is a simple calculator application built using JavaScript, HTML, and CSS. It provides basic arithmetic operations and a user-friendly interface for performing calculations.
 
