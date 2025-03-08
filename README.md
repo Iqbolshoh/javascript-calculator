@@ -1,43 +1,42 @@
-# Javascript Calculator
+# 🖩 JavaScript Calculator  
 
-This is a simple calculator application built using JavaScript, HTML, and CSS. It provides basic arithmetic operations and a user-friendly interface for performing calculations.
+This is a simple yet powerful calculator application built using **JavaScript, HTML, and CSS**. It provides basic arithmetic operations and an intuitive user interface for seamless calculations.  
 
-## Preview
+## 🚀 Preview  
 
-### Desktop
-  
-  ![Desktop View](./src/images/desktop.png)
+### 💻 Desktop View  
+![Desktop View](./src/images/desktop.png)  
 
-### Mobile
+### 📱 Mobile View  
+![Mobile View](./src/images/mobile.png)  
 
-  ![Mobile View](./src/images/mobile.png)
+## ✨ Features  
 
-## Features
+- 🧮 **Basic Operations** – Supports addition, subtraction, multiplication, and division.  
+- 🧹 **Clear Functionality** – Easily reset the calculator with a single click.  
+- 🎨 **Responsive Design** – Optimized for both desktop and mobile devices.  
 
-- **Basic Operations:** Addition, subtraction, multiplication, and division.
-- **Clear Functionality:** Clear the input and reset the calculator.
-- **Responsive Design:** Optimized for both desktop and mobile devices.
+## 📁 Directory Structure  
 
-## Directory Structure
+📌 **Project Files:**  
+- 📝 `index.html` – Structure of the calculator.  
+- 🎨 `styles.css` – Styling for the calculator UI.  
+- 🧑‍💻 `script.js` – Logic for calculator operations.  
 
-- `index.html`: The main HTML file containing the structure of the calculator.
-- `styles.css`: The CSS file for styling the calculator.
-- `script.js`: The JavaScript file containing the logic for the calculator operations.
+## 🔧 Usage  
 
-## Usage
+1️⃣ **Clone the Repository**  
 
-1. **Clone the Repository**
+```bash
+git clone https://github.com/Iqbolshoh/javascript-calculator.git
+cd javascript-calculator
+```
 
-   ```bash
-   git clone https://github.com/Iqbolshoh/javascript-calculator.git
-   cd javascript-calculator
-   ```
+2️⃣ **Open the Project**  
 
-2. **Open the Project**
+Simply open `index.html` in your browser to start using the calculator.  
 
-   Open `index.html` in your browser to view and use the calculator.
-
-## Technologies Used
+## 🖥️ Technologies Used
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <img src="https://img.shields.io/badge/HTML-%23F06529.svg?style=for-the-badge&logo=html5&logoColor=white"
