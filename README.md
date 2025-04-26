@@ -1,8 +1,8 @@
-# 🖩 JavaScript Calculator  
+# 🧮 JavaScript Calculator  
 
 This is a simple yet powerful calculator application built using **JavaScript, HTML, and CSS**. It provides basic arithmetic operations and an intuitive user interface for seamless calculations.  
 
-## 🚀 Preview  
+## 📸 Preview  
 
 ### 💻 Desktop View  
 ![Desktop View](./src/images/desktop.png)  
