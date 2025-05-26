@@ -1,4 +1,4 @@
-# 🧮 JavaScript Calculator  
+# 🧮 JavaScript Calculator Website
 
 This is a simple yet powerful calculator application built using **JavaScript, HTML, and CSS**. It provides basic arithmetic operations and an intuitive user interface for seamless calculations.  
 
@@ -28,8 +28,8 @@ This is a simple yet powerful calculator application built using **JavaScript, H
 1️⃣ **Clone the Repository**  
 
 ```bash
-git clone https://github.com/Iqbolshoh/javascript-calculator.git
-cd javascript-calculator
+git clone https://github.com/Iqbolshoh/javascript-calculator-website.git
+cd javascript-calculator-website
 ```
 
 2️⃣ **Open the Project**  
